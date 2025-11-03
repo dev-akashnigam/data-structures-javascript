@@ -1,0 +1,1 @@
+// There is no built-in method is JS that can directly provide the count of occurence or frequency of an element in an array.
