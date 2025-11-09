@@ -1,7 +1,7 @@
-const str = "Hey boys, I am singing a song. Soup song. Flop song. Why this kolaveri kolaveri kolaveri d";
+const str = "When the rain stopped, the city lights looked brighter than ever";
 console.log(`Original String = ${str}`);
 
-const subs = "Flop";
+const subs = "brighter";
 
 const hasCheck = str.includes(subs);
 

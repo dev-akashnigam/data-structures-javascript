@@ -1,7 +1,7 @@
-const str = "This story is about Akash Nigam";
+const str = "The curious fox wandered through the misty valley at dawn";
 console.log(`Original String = ${str}`);
 
-const subs = "This";
+const subs = "The";
 
 const checkStart = str.startsWith(subs);
 
